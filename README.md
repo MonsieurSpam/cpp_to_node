@@ -1,6 +1,6 @@
 # cpp_to_node
 Code snippet that allows cpp program to continuously send HTTPS requests to NodeJs server. This code was written for FEB as part of a datalogger project where a C++ program
-running on a Raspberry Pi would send post requests to a node server on the Pi in order to display vehicle information. 
+running on a Raspberry Pi would send post requests to a node server on the Pi in order to display vehicle information. Uploaded as reference for future use.
 
 # Required libraries 
 This project uses the curl library for C++ and the express package for NodeJs. Make sure you have both of these packages and libraries installed before using this project
